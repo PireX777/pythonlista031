@@ -3,6 +3,12 @@
 #valor do consumo médio do automóvel, em quilômetros por litro.
 
 print("Insira abaixo as informações:")
-float(input("Qual a distância?"))
-float(input("Qual o valor de consumo médio do automóvel?"))
+dst = float(input("Qual a distância?"))
+lt = float(input("Qual o valor de consumo médio do automóvel?"))
+
+distancia = 1000 * dst
+litro = 1000 * lt
+
+print("Distância em Km:",distancia)
+print("Consumo médio do automóvel em litro:",litro)
 
