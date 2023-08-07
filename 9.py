@@ -5,7 +5,7 @@
 
 import math
 
-num1 = int(input("Informe um número? " ))
+num1 = int(input("Informe um número?" ))
 quad = int(math.pow(num1,2))
 
 rq = float(math.sqrt(num1))

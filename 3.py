@@ -6,9 +6,9 @@
 conv = int(input("Informe um valor em Dólar:"))
 
 #Cálculos
-real = 3.80
-dol = 1.00
+
+dol = 3.80
 
 #Prints
 
-print("O valor em Real é: R$%.2f" %(dol * real))
+print("O valor em Real é: R$%.2f" %(conv* dol))
