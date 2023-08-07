@@ -10,7 +10,7 @@ media = (a + b + c)/3
 
 #resultado
 
-print(f"A média aritmética é:",media)
+print("A média aritmética é:",media)
 
 
 
