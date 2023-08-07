@@ -6,6 +6,6 @@ amt = sl * 0.15
 
 print("Aumento:",amt)
 
-print("Valor Total:", (sl + amt))
+print("Valor Total com um aumento de 15%:", (sl + amt))
 
 
